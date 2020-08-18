@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Product Info Provider",
+  "FriendlyName": "Product Info",
+  "SystemName": "Misc.ProductInfo",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "Linh Dinh",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.ProductInfo.dll",
+  "Description": "This plugin allows getting product info"
+}
